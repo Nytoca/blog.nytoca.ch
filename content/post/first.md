@@ -1,10 +1,9 @@
-+++
-date = "2015-08-18T12:17:18+02:00"
-draft = false
-title = "First Post on new Blog"
-tags = ["weblog"]
-
-+++
+---
+date: "2015-08-18T12:17:18+02:00"
+title: First Post on new Blog
+tags:
+  - english
+---
 
 Yay, new Blog based on hugo written in GO.
 

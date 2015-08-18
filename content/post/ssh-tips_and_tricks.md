@@ -4,6 +4,7 @@ author: nytoca
 title: SSH Tips and Tricks
 tags:
   - ssh
+  - english
 slug: ssh-tips-and-tricks
 
 ---
