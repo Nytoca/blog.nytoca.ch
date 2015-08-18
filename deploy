@@ -1,0 +1,5 @@
+#!/bin/bash
+
+hugo
+
+rsync -azu public/ equinox.nytoca.ch:/srv/http/blog.nytoca.ch/httpdocs/

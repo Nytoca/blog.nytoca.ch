@@ -1,0 +1,11 @@
+[submodule "vendor/lightslider"]
+    path = vendor/lightslider
+    url = https://github.com/sachinchoolur/lightslider.git
+
+[submodule "vendor/lightGallery"]
+    path = vendor/lightGallery
+    url = https://github.com/sachinchoolur/lightGallery.git
+
+[submodule "themes"]
+    path = themes
+    url = https://github.com/nytoca/hugoThemes.git
