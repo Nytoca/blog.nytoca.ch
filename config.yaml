@@ -37,7 +37,8 @@ params:
   DateFormat: 2. Jan 2006
 
   edit_link_url: http://github.com/nytoca/blog.nytoca.ch/blob/master/content/
-  description: "Blogging about Programming, Security, Linux, Networking and Web Apps. Daily worklog"
+  #description: "Blogging about Programming, Security, Linux, Networking and Web Apps. Daily worklog"
+  description: "Blogging about Linux, Networking and Web Apps. Daily worklog"
   logo: "/author/nytoca.jpg"
 
   Social:

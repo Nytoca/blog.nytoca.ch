@@ -8,6 +8,13 @@ tags:
 slug: ssh-tips-and-tricks
 
 ---
+Some SSH Tips and Tricks!
+<!--more-->
+
+## SSH SOCKS-Proxy
+```bash
+ssh -D7777 -N ssh username@yourhost.example.com
+```
 
 ## SSH Reverse-tunneling
 On your remote host, create an reverse tunnel
